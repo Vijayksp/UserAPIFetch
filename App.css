@@ -1,0 +1,32 @@
+/* .parent{display: flex;flex-direction: row;} */
+.box{
+    box-shadow: 0 5px 2px gray;
+    width: 600px;
+    height: 320px;
+    display: flex;
+    background:rgb(145, 140, 140);
+    text-align: left;
+    margin: 30px 400px;
+}
+body{background: rgb(75, 72, 72);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: rgb(85, 84, 84);
+    }
+
+.header{margin: 0 80px;}
+
+.head{position: absolute;margin: 25px 212px;}
+.head2{padding: 10px;}
+.file1{margin: 0 12px;}
+.file2{margin: 51px 40px;}
+h3{font-size: 16px;color: rgb(33, 48, 48);margin: -1px 0;}
+input{padding: 20px;}
+.txt:hover{background: rgb(253, 253, 253);}
+.btn{margin: 0 20px;background:rgb(165, 160, 160);border-radius: 20px;font-size: 17px;}
+.btn:hover{background:lightgray; }
+img{width: 180px;height: 130px;border-radius: 50%;}
+
+/* .design{display: flex;justify-content: space-around;} */
+/* input{background: none;border: none;} */
